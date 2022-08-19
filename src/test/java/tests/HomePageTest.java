@@ -30,7 +30,7 @@ public class HomePageTest extends BaseTest{
 	@Test (priority=2)
 	public void logout() {
 		
-		
+		System.out.println("test case pass");
 		hp.logout();
 	}
 
